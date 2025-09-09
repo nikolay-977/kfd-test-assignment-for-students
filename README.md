@@ -46,20 +46,20 @@
 
 ### Для запуска проекта выполните следующие шаги:
 
-    1. Клонируйте репозиторий:
+1. Клонируйте репозиторий:
 
 ```bash
 git clone https://github.com/nikolay-977/kfd-test-assignment-for-students
 cd kfd-test-assignment-for-students
  ```
 
-    2. Скомпилируйте проект:
+2. Скомпилируйте проект:
 
 ```bash
 mvn compile
  ```
 
-    3. Запустите:
+3. Запустите:
 
 ```bash
 mvn exec:java
